@@ -29,8 +29,8 @@ This project showcases analytical SQL skills by querying a simulated EMR (Electr
 
 | File | Description |
 |------|-------------|
-| `emr_setup.sql` | Schema and dummy data for EMR simulation |
-| `queries.sql` | Contains the 3 key analytical queries with inline comments |
+| `setup.sql` | Schema and dummy data for EMR simulation |
+| `queriy.sql` | Contains the 3 key analytical queries with inline comments |
 | `README.md` | Complete documentation to run and understand the project |
 
 ---
